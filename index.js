@@ -72,3 +72,6 @@ function verificar() {
     }
 
 }
+function limpartela() {
+    res.innerHTML = '' ;
+}
